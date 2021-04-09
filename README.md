@@ -5,7 +5,7 @@
 
 ## DEMO
 
-[点击观看DEMO](https://github.com/codemofa/BaiduPanAPI/blob/main/pan.alltoapi.com.demo.webm)
+[点击观看DEMO](https://github.com/codemofa/BaiduPanAPI/raw/main/pan.alltoapi.com.demo.webm)
 
 
 ## 原理
