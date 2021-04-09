@@ -5,7 +5,7 @@
 
 ## 原理
 
-本站采用的是Android的“[无障碍功能（AccessibilityService）](https://developer.android.com/guide/topics/ui/accessibility)”
+本站采用的是Android的 [无障碍功能（AccessibilityService）](https://developer.android.com/guide/topics/ui/accessibility)
 
 ## 目前提供的API
 
