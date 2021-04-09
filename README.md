@@ -3,6 +3,11 @@
 
 网站：https://pan.alltoapi.com
 
+## DEMO
+
+[点击观看DEMO](https://github.com/codemofa/BaiduPanAPI/blob/main/pan.alltoapi.com.demo.webm)
+
+
 ## 原理
 
 本站采用的是Android的 [无障碍功能（AccessibilityService）](https://developer.android.com/guide/topics/ui/accessibility)
